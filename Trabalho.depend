@@ -1,0 +1,109 @@
+# depslib dependency file v1.0
+1507179487 source:c:\users\marco\desktop\trabalho\ga.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+	"ga.h"
+
+1507179487 c:\users\marco\desktop\trabalho\ga.h
+
+1507179503 source:c:\users\marco\desktop\trabalho\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ga.h"
+	"menu.h"
+
+1506648856 c:\users\marco\desktop\trabalho\menu.h
+
+1506651744 source:c:\users\marco\desktop\trabalho\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"rlutil.h"
+
+1492748208 c:\users\marco\desktop\trabalho\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1507179487 source:c:\users\marco\onedrive\documentos\codeblocks\projetos\ga\ga.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+	"ga.h"
+
+1507179487 c:\users\marco\onedrive\documentos\codeblocks\projetos\ga\ga.h
+
+1507179503 source:c:\users\marco\onedrive\documentos\codeblocks\projetos\ga\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ga.h"
+	"menu.h"
+
+1506648856 c:\users\marco\onedrive\documentos\codeblocks\projetos\ga\menu.h
+
+1506651744 source:c:\users\marco\onedrive\documentos\codeblocks\projetos\ga\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"rlutil.h"
+
+1492748208 c:\users\marco\onedrive\documentos\codeblocks\projetos\ga\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1507179487 source:c:\users\marco\onedrive\documentos\c e c++\projetos\ga\ga.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+	"ga.h"
+
+1507179487 c:\users\marco\onedrive\documentos\c e c++\projetos\ga\ga.h
+
+1507179503 source:c:\users\marco\onedrive\documentos\c e c++\projetos\ga\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ga.h"
+	"menu.h"
+
+1506648856 c:\users\marco\onedrive\documentos\c e c++\projetos\ga\menu.h
+
+1506651744 source:c:\users\marco\onedrive\documentos\c e c++\projetos\ga\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"rlutil.h"
+
+1492748208 c:\users\marco\onedrive\documentos\c e c++\projetos\ga\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
